@@ -57,7 +57,7 @@ article .profile-pic {
 
 div.header {
     padding: 10px;
-    background-color: green;
+    background-color: #05F140;
     width: 1000px;
     height: 250px;
   }
@@ -75,7 +75,7 @@ div {
 }
 
 div.article {
-    background-color:#ffffff;
+    background-color:#000000;
     max-width: 500px;
     margin: auto;
     padding: 15px;
@@ -88,7 +88,7 @@ div.article .article-title {
     font-size: 55px;
     font-family: 'Verdana';
     margin: 3px;
-    color: green;
+    color: #05F140;
 
 }
 
